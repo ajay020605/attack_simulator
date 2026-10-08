@@ -1,0 +1,6 @@
+computer,service,port,protocol,exposure
+SERVER01,FileService,445,TCP,internal
+SERVER01,RemoteManagement,5985,TCP,exposed
+DC01,DirectoryService,389,TCP,internal
+DC01,DNS,53,UDP,internal
+PC01,RemoteManagement,5985,TCP,internal

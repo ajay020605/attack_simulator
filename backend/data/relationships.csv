@@ -1,0 +1,11 @@
+source,relationship,target
+ajay,MEMBER_OF,Employees
+tahir,MEMBER_OF,Employees
+rahil,MEMBER_OF,Helpdesk
+sarah,MEMBER_OF,IT
+Employees,MEMBER_OF,Helpdesk
+Helpdesk,HAS_ACCESS,SERVER01
+SERVER01,ADMIN_OF,ServerAdmins
+ServerAdmins,MEMBER_OF,DomainAdmins
+sarah,HAS_ADMIN_ACCESS,SERVER01
+admin,MEMBER_OF,DomainAdmins

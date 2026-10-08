@@ -1,0 +1,6 @@
+source,target,expected
+ajay,DomainAdmins,yes
+tahir,DomainAdmins,yes
+rahil,DomainAdmins,yes
+sarah,ServerAdmins,yes
+admin,DomainAdmins,yes

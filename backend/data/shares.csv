@@ -1,0 +1,5 @@
+computer,share_name,exposure,purpose
+SERVER01,Public,broad,Shared documents
+SERVER01,IT-Admin,restricted,IT administration
+DC01,NETLOGON,restricted,Domain logon resources
+DC01,SYSVOL,restricted,Group policy resources

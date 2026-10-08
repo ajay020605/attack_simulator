@@ -1,0 +1,6 @@
+computer_name,type,os,criticality
+PC01,Workstation,Windows 11,Low
+PC02,Workstation,Windows 11,Low
+HELPDESK01,Workstation,Windows 10,Medium
+SERVER01,Server,Windows Server,High
+DC01,Domain Controller,Windows Server,Critical

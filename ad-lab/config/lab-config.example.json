@@ -1,0 +1,9 @@
+{
+  "domain": "corp.local",
+  "domain_controller": "DC01",
+  "member_server": "SERVER01",
+  "client": "PC01",
+  "users": ["ajay", "tahir", "rahil", "sarah", "admin"],
+  "groups": ["Employees", "Helpdesk", "IT", "ServerAdmins", "DomainAdmins"],
+  "mode": "ad"
+}

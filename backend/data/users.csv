@@ -1,0 +1,6 @@
+username,role,privilege_level,department
+ajay,Employee,Low,Finance
+tahir,Employee,Low,Operations
+rahil,Helpdesk,Low,IT Support
+sarah,IT Analyst,Medium,IT
+admin,Administrator,High,IT

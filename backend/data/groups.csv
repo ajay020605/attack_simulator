@@ -1,0 +1,6 @@
+group_name,group_type,description
+Employees,Normal,Standard employee group
+Helpdesk,Normal,Helpdesk support group
+IT,Normal,IT support group
+ServerAdmins,Privileged,Server administration group
+DomainAdmins,Privileged,Domain administration group
